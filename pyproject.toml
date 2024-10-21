@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "python-web-task-8"
+version = "0.1.0"
+description = ""
+authors = ["Dubas14 <ev.hanzha@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymongo = "^4.10.1"
+pika = "^1.3.2"
+redit = "^1.0.2"
+mongoengine = "^0.29.1"
+redis = "^5.1.1"
+redis-lru = "^0.1.2"
+faker = "^30.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
