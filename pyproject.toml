@@ -14,6 +14,7 @@ mongoengine = "^0.29.1"
 redis = "^5.1.1"
 redis-lru = "^0.1.2"
 faker = "^30.6.0"
+scrapy = "^2.11.2"
 
 
 [build-system]

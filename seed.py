@@ -27,4 +27,4 @@ def load_quotes(file_path):
 
 if __name__ == '__main__':
     load_authors('authors.json')
-    load_quotes('qoutes.json')
+    load_quotes('quotes.json')
